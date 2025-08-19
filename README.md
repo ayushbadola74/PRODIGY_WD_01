@@ -13,12 +13,13 @@ It follows a clean dark theme design and demonstrates the use of basic web devel
 ---
 
 ## 📂 Project Structure  
-├── index.html # Main landing page
-├── style.css # Styling file
-├── script.js # JavaScript interactivity
-├── screenshot1.jpg # Preview image 1
-├── screenshot2.jpg # Preview image 2
-└── README.md # Project documentation
+PRODIGY_WD_01/
+│── index.html # Main landing page
+│── style.css # Styling file
+│── script.js # JavaScript interactivity
+│── README.md # Project documentation
+│── screenshot1.png # Project preview image
+│── screenshot2.png # Project preview image
 
 ---
 
