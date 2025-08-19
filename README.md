@@ -1,33 +1,42 @@
-🚀 Responsive Landing Page
-This project is Task-01 of my Web Development Internship at Prodigy InfoTech.
-It is a Responsive Landing Page built using HTML, CSS, and JavaScript.
+# PRODIGY_WD_01 - Landing Page  
 
-📌 Features
-Interactive navigation bar that changes style on scroll.
-Responsive design that works on desktop and mobile.
-Clean black theme for modern look.
-Easy to customize.
+This project is a simple **responsive landing page** built using **HTML, CSS, and JavaScript**.  
+It follows a clean dark theme design and demonstrates the use of basic web development skills.  
 
-🛠️ Tech Stack
-HTML5
-CSS3
-JavaScript
+---
 
-📂 Project Structure
-├── index.html   # Main landing page  
-├── style.css    # Styling file  
-├── script.js    # JavaScript interactivity  
-└── README.md    # Project documentation  
+## 🚀 Tech Stack  
+- **HTML5** – Structure of the webpage  
+- **CSS3** – Styling and responsive design  
+- **JavaScript** – Adding interactivity  
 
-📸 Preview
-## 📸 Preview
+---
 
-![Landing Page Screenshot](screenshot1.png)
+## 📂 Project Structure  
+├── index.html # Main landing page
+├── style.css # Styling file
+├── script.js # JavaScript interactivity
+├── screenshot1.jpg # Preview image 1
+├── screenshot2.jpg # Preview image 2
+└── README.md # Project documentation
 
-![Landing Page Screenshot](screenshot2.png)
+---
 
-👨‍💻 Author
-Ayush Badola
-📧 ayushbadola74@gmail.com
+## 📸 Preview  
 
+**Landing Page Screenshot 1**  
+![Landing Page Screenshot 1](screenshot1.jpg)  
 
+<br>  
+
+**Landing Page Screenshot 2**  
+![Landing Page Screenshot 2](screenshot2.jpg)  
+
+---
+
+## ✨ Author  
+**Ayush Badola**  
+📧 [ayushbadola74@gmail.com](mailto:ayushbadola74@gmail.com)  
+🌐 [GitHub Profile](https://github.com/ayushbadola74)  
+
+---
