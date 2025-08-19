@@ -30,3 +30,6 @@ It follows a clean dark theme design and demonstrates the use of basic web devel
 🌐 [GitHub Profile](https://github.com/ayushbadola74)  
 
 ---
+
+🌍 Live Demo
+[Click here to view the website](https://ayushbadola74.github.io/PRODIGY_WD_01/)
