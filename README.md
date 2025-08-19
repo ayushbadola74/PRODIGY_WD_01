@@ -12,17 +12,6 @@ It follows a clean dark theme design and demonstrates the use of basic web devel
 
 ---
 
-## 📂 Project Structure  
-PRODIGY_WD_01/
-│── index.html # Main landing page
-│── style.css # Styling file
-│── script.js # JavaScript interactivity
-│── README.md # Project documentation
-│── screenshot1.png # Project preview image
-│── screenshot2.png # Project preview image
-
----
-
 ## 📸 Preview  
 
 **Landing Page Screenshot 1**  
